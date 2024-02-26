@@ -2,6 +2,9 @@
 
 Welcome to Tic-Tac-Toe! This project is a simple web-based implementation of the classic Tic-Tac-Toe game. This README file will provide an overview of the project, instructions on how to play the game, and details on how to contribute to the project.
 
+# Demo
+https://mohdrafey1.github.io/TicTacToe-Game/
+
 ## How to Play
 
 Tic-Tac-Toe is a two-player game played on a 3x3 grid. Players take turns marking empty cells with their respective symbols (usually 'X' and 'O').
